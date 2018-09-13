@@ -1,1 +1,1 @@
-# mail
+use python for sending email
